@@ -4,6 +4,12 @@ Aplicación web interactiva que consume la API de CADI F1 para explorar las áre
 
 ---
 
+## 🌐 Demostración
+
+👉 **[Live Demo](https://sebaxlandaeta.github.io/catalogo-cursos-cadif1/)**
+
+---
+
 ## ⚡ Características
 
 - 🔍 Exploración de áreas de estudio mediante peticiones asíncronas a la API de CADI F1.
@@ -13,7 +19,6 @@ Aplicación web interactiva que consume la API de CADI F1 para explorar las áre
 - 🚀 Desarrollo ligero con JavaScript Vanilla y CDN de Tailwind CSS, sin requerir empaquetadores ni pasos de compilación.
 
 ---
-
 ## 🛠️ Tecnologías Utilizadas
 
 - 🌐 HTML5
